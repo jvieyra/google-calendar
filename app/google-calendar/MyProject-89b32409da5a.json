@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flowing-goods-184115",
+  "private_key_id": "89b32409da5a2e18f03732ac133fe88162035dfd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvwFkuLUPWqX73\nhzt1aYbepq65NCl3mtjdz5exWn57qLgJJbDcvtXKHtCsYde6yRFn0dB2VLLgsAiA\nMiVaeDwPwIIjscnTji+b/iI08OA/PqJ7TZxiFlajdyTeF19BCh7EX+AwC7t4GRSV\nro/PQ2UyxAzklCVRtZS2Lk/VQMHnIW8KhS5wvk5ordxCOdlLCi6T8NhCeT5/ALDf\n9nXvlA34hmtjE36e/C8dvvRSRMrOS4JAGNxOEhnpKElDHiB9Cz8zhrdrn9izdWib\nJi7CghWIAUpxGRmDC3EyAlonsWUarvlZzvxLRVmpbOahOw1/T8CN8ZZSz5n+geqI\ndMF/hT53AgMBAAECggEAM9rcVTgMyoLTD+SKIg/jN8FVTxa5X21ELFnqR21MYV78\nAdLplpAF0y95YUszFAzsQkYRLEC8UHgP4gcpp0JPclRZ8X8s7esHWA7I9/bUK0Tn\nOttA114A7RUjvxWFSNLcFhO1uWdUxlAcFzfcfYpEixB2P2EIi824FXKfomuLao6g\nnnGX+4q/4Og6UvXunlRB5ZkrVD+gH5aL0mmdTXEAqg5KQkGjpTLx9Dbvujc0P00e\n4zhrJVgH0kBRMvkZ//UqiZgwcbi7tw1SY4KIgUeNpH4uiDCzPnBI8FK/SQ3vRpAi\nwUH5rF27MV1YFaGwe9Pjcfl3IUOvuBcOvYIwv+MaGQKBgQDoNuKMtqH3WfSPf6mr\nuQakLTW2wEJxgndWppayn3Z97L6CfPxmn0brbIUfTBCS2pI2Xn9WyDFZaemiY050\n2hKUADJTNmNNoYPwcqdtLmO59rbo2AGgayKZhf/D/hX8a5EMmUvKb8Xlr64Luhwo\ner3omCxRfmdCAk9NJZHL63biXwKBgQDBwORx4PHiCmm+C6I1cbmcIWjbVdY6n8l4\nm9CoT5NDtTydqOSvzvQWzXkkjokg9JlvCkKHSyV+jjCh1urHMXgrRe8yb7LRCssn\n54FAZkOIz9rSGZM9m5fM3gZ/UHRhyVTqkaY07lapiJU36/00tgefZAVzgGMq2Vkz\n5TbaTfaK6QKBgQDmoWxMmS8v/dXZl8+qUC/6azSH91eGaS+hjf7qFVqYIsPr0brV\nKahENhnZRbDISfEhsqUCSf5JcdmrgLnxcI03FSLmZoQmHB5wd082Lva5QgHULIUh\nEIbit6WYwQiRFTyQqMgPnQeN4fgYiZVh1tY65rhNkB95/dVJJ+EwCQKgPQKBgEWy\ndLr+VySf6E/j8XLWORWP8x9LbmfiSOAo9NNG5Mura2WvdqxDfwyg114uI+gF9Re7\nkhkHEDLJRXdCT2xeQEMYwiXbhnCqOFBfd+BJqSuS0b1YU94KlX2ttJqhv2vZt8E1\nqZtKzUPpDPxz2L7YaD+PBGL7ITEtxGfloWjAONrZAoGBAKTCpoHG4fXBdhExGaM0\ndN5cJ66UBlOLK0LzSjihz+UnI9SgLH9M6DyaTi/Q27FfZmPBYZXVtr+b7SV1kwoi\nyrlVYMnZYM2QBt3QoL99TPZQV4OvN+6Q/lm8kfYZ85fZF1LH1PzalHlHoPOzJDmU\nqiWW9QJw4E139o/fq7tGDZba\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-api@flowing-goods-184115.iam.gserviceaccount.com",
+  "client_id": "107795769456798927673",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-api%40flowing-goods-184115.iam.gserviceaccount.com"
+}
